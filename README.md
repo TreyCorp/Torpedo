@@ -1,8 +1,8 @@
 
 
-# Grit Engine
+# Torpedo Engine
 
-This is the central repository for the [Grit Game Engine](http://www.gritengine.com) project.
+This is a modified version of the [Grit Game Engine](http://www.gritengine.com) project.
 
 From here can be built the engine executable itself, the launcher, and various tools. These are
 mostly useless without the accompanying media tree (the [Game
